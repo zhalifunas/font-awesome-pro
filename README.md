@@ -36,6 +36,10 @@ Make sure to check the Font Awesome Pro license before using its icons in your p
 * Update the TypeScript definition for Library.add() to allow an array of icon defintions
 * Animation CSS custom property --fa-rotate-by now has a correct default value of 0
 * Fixed some Less variable issues with --fa-bounce
+
+## Usage
+    <link href="https://cdn.jsdelivr.net/gh/zhalifunas/font-awesome-pro@utama/fontawesome-pro-6.5.2-web/css/all.min.css" rel="stylesheet">
+
 _________  
 
 Thank you for choosing Font Awesome Pro v6.5.1 for your projects! We hope it elevates your design and development experiences.
